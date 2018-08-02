@@ -57,4 +57,5 @@ $ cidrinfo 2001:0db8:85a3:0000:0000:8a2e:0370:7334/64
 
 ---
 
-Made in Australia by [Paul Annesley](https://paul.annesley.cc/)
+| ![image](https://user-images.githubusercontent.com/15759/43557001-e074f346-9645-11e8-8d77-019b88bc7d79.png) | Made in Australia by [Paul Annesley](https://paul.annesley.cc/) |
+| --- | --- |
